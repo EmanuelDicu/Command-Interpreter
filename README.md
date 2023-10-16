@@ -60,14 +60,8 @@ The `main.c` file contains the main function for the shell. It is responsible fo
 ## How to Build
 The project includes a `Makefile` for building the project. To build the project, follow these steps:
 
-1. Open a terminal.
-2. Navigate to the project directory.
-3. Run the following command:
-   ```sh
-   make
-
 ## Supported Commands
-The Mini-Shell supports the following commands:
+The interpreter supports the following commands:
 
 - Basic shell commands, e.g., running external programs.
 - Internal commands: cd, exit, quit, and environment variable assignments.
